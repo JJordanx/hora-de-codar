@@ -1,5 +1,5 @@
 '''
-FUNCOES MAIS UTILIZADAS POR MIM 
+FUNCOES DE VALIDAÇÃO
 '''
 # Funcao que ler um numero inteiro - Sistema de validação.
 
